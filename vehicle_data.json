@@ -1,0 +1,63 @@
+[
+    {
+      "license_plate": "TN01AB1234",
+      "color": "Red",
+      "model": "Honda Civic",
+      "year": 2008
+    },
+    {
+      "license_plate": "TN02CD5678",
+      "color": "Black",
+      "model": "Nissan GT",
+      "year": 2012
+    },
+    {
+      "license_plate": "TN03EF9101",
+      "color": "White",
+      "model": "Volkswagen Virtus",
+      "year": 2020
+    },
+    {
+      "license_plate": "TN04GH1121",
+      "color": "Blue",
+      "model": "Mahindra Bolero",
+      "year": 2015
+    },
+    {
+      "license_plate": "TN05IJ3141",
+      "color": "Silver",
+      "model": "Kia Carens",
+      "year": 2021
+    },
+    {
+      "license_plate": "TN06KL5161",
+      "color": "Grey",
+      "model": "Hyundai Creta",
+      "year": 2019
+    },
+    {
+      "license_plate": "TN07MN7181",
+      "color": "Yellow",
+      "model": "Tata Harrier",
+      "year": 2022
+    },
+    {
+      "license_plate": "TN08OP9202",
+      "color": "Green",
+      "model": "Maruti Suzuki Swift",
+      "year": 2011
+    },
+    {
+      "license_plate": "TN09QR1222",
+      "color": "Red",
+      "model": "Toyota Fortuner",
+      "year": 2014
+    },
+    {
+      "license_plate": "TN10ST3242",
+      "color": "Red",
+      "model": "Renault Duster",
+      "year": 2014
+    }
+  ]
+  
